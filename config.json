@@ -1,0 +1,205 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#1B1B1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1B1B1A",
+            "welcome-bonus-bg": "#1B1B1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#10100f",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#632727",
+            "text-head": "#ffffff",
+            "hero-title-text": "#0bc0e0",
+            "welcome-bonus-text": "#C7A238",
+            "yellow": "#632727",
+            "yellow-button": "#C7A238",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1B1B1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#68686a",
+            "pay-back": "#deeadf",
+            "providers-back": "#1B1B1A",
+            "faq-label": "#1B1B1A",
+            "bg-footer": "#1B1B1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#632727",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Barrière Deauville",
+            "title": "Casino Barrière Deauville : machines, roulette, poker, shows et Carré VIP",
+            "description": "Guide complet du Casino Barrière Deauville : machines à sous, roulette et blackjack, poker room, spectacles et concerts, bars et restaurants, règles d’accès et programme Le Carré VIP.",
+            "canonical": "casinosbarriere-deauville.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1179",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinosbarriere-deauville.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1180",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1181"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1182",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Barrière Deauville Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino Barrière Deauville — jeux, spectacles, restaurants et fidélité",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1183",
+            "imageSizeModifier": 5,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1184",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Grande salle de slots à jackpots progressifs",
+                "Variété de roulettes et blackjack avec croupiers",
+                "Poker room : cash games et tournois réguliers",
+                "Jeux électroniques pour un rythme rapide",
+                "Bâtiment iconique, décor luxueux et chic",
+                "Spectacles, théâtre et dîners au même endroit",
+                "Bars et restauration pour pauses confortables"
+            ],
+            "advantagesAfterText": "Le Casino Barrière Deauville se distingue par une expérience complète mêlant jeu, ambiance et divertissement. On y vient autant pour l’adrénaline des tables que pour la soirée « sortie premium » avec spectacle et restaurant. L’ensemble est pensé pour un séjour fluide, élégant et mémorable.\n",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino Barrière Deauville App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1185",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Barrière Deauville App",
+            "mobileGooglePlayImageTitle": "Casino Barrière Deauville App",
+            "mobileIosImageTitle": "Casino Barrière Deauville App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino Barrière Deauville",
+                "description1": "Le Casino Barrière Deauville se démarque par son prestige et son offre de jeu complète. L’expérience est pensée comme une vraie soirée : tables, spectacle et restauration au même endroit.\n",
+                "items": [
+                    "Jackpots : plus de 1 000 000 €.",
+                    "Roulette : gain 35:1.",
+                    "Blackjack : paiement 3:2."
+                ],
+                "description2": "Le Casino Barrière Deauville associe élégance classique et confort contemporain. L’ambiance rappelle une soirée de bord de mer où le jeu devient un art de vivre. Les espaces sont pensés pour circuler facilement entre les salles, les bars et la restauration. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1186",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "L’offre de jeu mélange machines et tables animées par des croupiers. Les amateurs de poker apprécient une zone dédiée pour jouer dans un cadre structuré. La programmation de divertissements s’intègre naturellement à la visite. Le théâtre et les shows donnent une dimension événementielle à la soirée. Le service privilégie la discrétion, la courtoisie et le respect des règles. Des avantages sont proposés aux visiteurs réguliers via un programme de fidélité. C’est une adresse idéale pour un passage rapide comme pour une nuit complète.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Barrière Deauville : l’élégance du jeu et la scène du soir",
+                "description": "<p>\nLe Casino Barrière Deauville se vit comme une grande adresse : décor raffiné, lumière chaleureuse et sensation de soirée « habillée » même pour une visite spontanée. L’ambiance est à la fois festive et maîtrisée, avec ce mélange de discrétion et d’énergie propre aux lieux iconiques. On vient autant pour jouer que pour profiter d’un cadre élégant, propice aux sorties en couple ou entre amis. Le soir, l’atmosphère devient plus théâtrale, avec une vraie mise en scène de l’expérience.\n\n<\/p>\n<br>\n\n<p>\nCôté horaires, le casino s’adapte aux rythmes de journée et de nuit, ce qui permet de passer simplement pour quelques jeux ou de prolonger jusqu’à tard. La journée met souvent en avant les machines et les formats électroniques, tandis que la soirée valorise davantage les tables et l’esprit « grand casino ». Cette évolution naturelle du tempo est appréciée : chacun trouve son moment, son style de jeu, son niveau d’intensité. Lors des périodes événementielles, l’organisation peut évoluer, d’où l’intérêt de planifier.\n\n<\/p>\n<br>\n<p>\nLes bars font partie intégrante du parcours : pause cocktail, verre de vin, encas léger, tout est pensé pour respirer entre deux sessions. L’objectif n’est pas de casser la soirée, mais de la rythmer, en permettant de passer du jeu à la conversation sans sortir du lieu. Les espaces lounge donnent une option plus calme, idéale pour ceux qui cherchent une ambiance feutrée. Cette continuité entre jeu et détente est un vrai marqueur Barrière.\n\n<\/p>\n<br>\n<p>\nLe casino s’inscrit aussi dans un univers hôtelier très proche : les établissements Barrière à proximité facilitent un séjour complet, sans contrainte de déplacement. On peut transformer une soirée en escapade, en ajoutant nuitée, spa et moments de détente. Ce modèle convient particulièrement aux week-ends et aux escapades courtes où l’on veut optimiser le temps. L’expérience devient alors un vrai « package » plaisir.\n\n<\/p>\n<br>\n<p>\nLa partie divertissement renforce l’identité du lieu : concerts, théâtre, humour, magie, danse, la scène apporte une dimension culturelle et événementielle. Le casino ne se limite plus au jeu, il devient un lieu de sortie complet. C’est idéal pour les groupes aux envies différentes, car chacun peut construire son programme. On retrouve ensuite un point commun au bar ou au restaurant, ce qui rend la soirée fluide.\n\n<\/p>\n<br>\n<p>\nEnfin, l’écosystème d’avantages Barrière, via la fidélité, apporte une logique de récompense et de personnalisation. L’accès peut être plus rapide, les offres plus ciblées, et les privilèges s’étendre à plusieurs services. Les statuts structurent l’expérience, surtout pour les visiteurs réguliers. Au final, le Casino Barrière Deauville combine jeu, service, spectacles et art de vivre.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et aspects financiers au Casino Barrière Deauville : équipe, paiements et gains\n<\/h3>\n\n<p>\nAu Casino Barrière Deauville, le personnel regroupe généralement croupiers, équipes de salle, accueil et sécurité, avec une priorité : confort, fluidité et respect des règles. Aux tables, les croupiers imposent un rythme clair, appliquent le règlement et peuvent orienter les débutants sur les mécaniques essentielles. Dans les espaces machines, l’accompagnement est plus pratique : aide aux terminaux, explications sur les tickets, gestion des petites questions techniques. La sécurité, discrète, veille à préserver une atmosphère sereine.\n\n<\/p>\n<br>\n\n<p>\nLa communication se fait principalement en français, et l’anglais est souvent disponible à l’accueil et dans les périodes de forte affluence touristique. Cela facilite l’identification, les questions sur la tenue, la programmation ou le fonctionnement du poker. Aux tables, la langue dépend parfois du flux de clients, mais les échanges restent simples grâce au vocabulaire universel du casino. Pour des règles plus complexes, un hôte peut orienter vers le point de contact le plus adapté.\n\n<\/p>\n<br>\n<p>\nLa monnaie de référence est l’euro. Les paiements dans les espaces de restauration et de services se font le plus souvent en espèces et par carte bancaire, avec des solutions sans contact lorsque disponibles. Dans les zones de jeu, l’organisation est classique : on convertit un montant en jetons ou tickets via la caisse ou des dispositifs dédiés, puis on joue selon les limites en vigueur. Les modalités exactes peuvent varier entre machines, tables et poker.\n\n<\/p>\n<br>\n<p>\nLes distributeurs automatiques sont généralement présents sur place ou tout près, afin de permettre de retirer des espèces facilement. Un service de change « multi-devises » n’est pas systématique, mais la conversion en moyens de jeu via la caisse est standard et claire. Avec une carte bancaire étrangère, il est utile de vérifier les plafonds, frais et autorisations, pour éviter une interruption de soirée. Prévoir un moyen de paiement alternatif reste une bonne pratique.\n\n<\/p>\n<br>\n<p>\nLe retrait des gains se fait habituellement à la caisse : pour les montants modestes, la procédure est rapide, tandis que les paiements plus élevés peuvent nécessiter des vérifications complémentaires et parfois un règlement non cash. Il est recommandé de suivre les indications du personnel et de garder une pièce d’identité valide à portée, car cela accélère les contrôles. En poker, les modalités peuvent dépendre du format (cash game, tournoi) et du règlement interne. La transparence et la simplicité des opérations sont des priorités.\n\n<\/p>\n<br>\n<p>\nSur l’aspect fiscal, la plupart des joueurs occasionnels n’ont pas une « démarche sur place » spécifique : le cadre réglementaire du casino structure déjà les flux. Néanmoins, les situations individuelles peuvent différer, notamment en cas d’activité professionnelle ou de contexte administratif particulier. En cas de gains réguliers ou importants, demander un avis spécialisé est prudent. Pour une expérience sereine, l’essentiel est d’avoir des documents valides et de respecter les procédures.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite au Casino Barrière Deauville : tenue, accès et itinéraire<\/h3>\n\n<p>\nL’accès au Casino Barrière Deauville suit les règles classiques d’un établissement de jeux : entrée réservée aux personnes majeures avec présentation obligatoire d’une pièce d’identité valide. Un contrôle à l’entrée peut inclure la vérification d’identité et le statut d’exclusion volontaire, d’où l’intérêt d’avoir ses documents à portée. L’ambiance est élégante et demande une tenue soignée : il n’est pas nécessaire d’être en tenue de gala, mais une tenue trop décontractée ou de plage peut être refusée. Dans les espaces de jeu, le respect du règlement est essentiel : ne pas perturber les autres, éviter les contestations et suivre les consignes des croupiers. Les photos et vidéos peuvent être limitées, surtout près des tables et des caisses. Les règles de tabac dépendent des zones autorisées, il faut donc respecter la signalétique. L’alcool fait partie de l’expérience, mais l’ivresse manifeste peut entraîner un refus d’accès ou une sortie du casino. Les sacs peuvent être contrôlés, et certains objets volumineux peuvent être orientés vers un vestiaire. Pour les restaurants situés en zone de jeu, les mêmes règles d’accès s’appliquent. L’accès se fait facilement à pied depuis les zones centrales, en taxi ou en voiture. Pour les automobilistes, il est recommandé d’anticiper la question du stationnement, surtout les soirs de spectacles.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nTenue (recommandée) : smart casual soigné, chaussures fermées, allure propre ; le soir, une tenue plus habillée est idéale pour théâtre et dîner.\n\n<\/li>\n            <li>• \nDocuments et conditions : entrée 18+ ; pièce d’identité valide obligatoire ; personnes interdites de jeu non admises ; l’accueil peut orienter selon l’activité.\n\n<\/li>\n            <li>• \nInterdits et limites : photos\/vidéos souvent interdites en zone de jeu ; pas d’interférence avec les mises d’autrui ; comportement agressif proscrit ; ivresse = refus possible.\n\n<\/li>\n            <li>• \nS’y rendre : à pied depuis le centre et la promenade ; taxi pratique le soir ; voiture possible en anticipant les flux avant les shows.\n\n<\/li>\n\t    <li>• \nStationnement : parkings publics à proximité ; arriver en avance aux heures de pointe ; prévoir un délai supplémentaire les soirs d’événements.\n\n\n<\/li>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLe Carré VIP au Casino Barrière Deauville : statuts, points et privilèges\n<\/h3>\n\n<p>\nLe programme Le Carré VIP est la meilleure option pour les visiteurs réguliers du Casino Barrière Deauville qui souhaitent transformer leurs passages en avantages concrets. Le principe est simple : s’inscrire, obtenir une carte, puis cumuler des points grâce à l’activité dans le casino et au sein du complexe. Le programme vise à fluidifier l’expérience, personnaliser l’accueil et récompenser la fidélité au-delà du jeu, en intégrant aussi la restauration et certains services. Un point fort est la logique d’accès facilité, qui rend les visites répétées plus confortables, dans le respect du cadre en vigueur.\n\n<\/p>\n<br>\n\n<p>\nLa fidélité repose sur des statuts : plus le statut est élevé, plus les privilèges deviennent qualitatifs et ciblés. Le statut se gagne via des « points statut » comptabilisés sur une période, puis réévalués sur un cycle annuel. En parallèle, on retrouve généralement un compteur de points orienté récompense, qui peut être transformé en avantages immédiats. Ainsi, on bénéficie d’un double levier : progression de statut et gains concrets.\n\n<\/p>\n<br>\n<p>\nL’inscription peut se faire en pré-adhésion puis finalisation sur place, ou directement à l’accueil. Un format digital est aussi possible via l’application Barrière Play, après vérification d’identité. Cette option plaît aux visiteurs qui veulent une expérience rapide, claire et connectée. Elle est pratique pour les soirs de spectacles, lorsque l’on cherche à éviter toute attente inutile.\n\n<\/p>\n<br>\n<p>\nLe cumul de points s’appuie sur la réalité du parcours client : insertion de la carte avant de jouer aux machines, présentation aux équipes en salle des jeux de table, et dépenses dans les espaces bar\/restaurant. Cette logique rend le programme intéressant même pour ceux qui jouent modérément, car la soirée complète peut contribuer à l’accumulation. La fidélité devient donc un « style de visite », pas seulement une mécanique liée aux mises.\n\n<\/p>\n<br>\n<p>\nUn dispositif premium existe pour les statuts supérieurs, avec la possibilité d’associer un accompagnant afin de mutualiser certains avantages. Cela renforce la dimension club et la logique de partage. Pour ceux qui aiment l’expérience globale, les bénéfices peuvent aussi se connecter à l’univers Barrière au sens large. L’ensemble forme une vraie écosystème de privilèges.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n<\/h4>\n\n <ul>\n            <li>• \nÊtre majeur (18+) et non interdit de jeu.\n\n<\/li>\n            <li>• \nPrésenter une pièce d’identité valide et valider l’identité.\n\n<\/li>\n            <li>• \nS’inscrire sur place ou via pré-adhésion avec finalisation en casino.\n\n<\/li>\n            <li>• \nCarte dématérialisée possible via application (après vérification).\n<\/li>\n\t\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStatuts et obtention (points statut) :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBlanc — 0 point : niveau d’entrée après inscription.\n\n<\/li>\n            <li>• \nArgent — 6 500 points : atteint avec des visites régulières.\n\n<\/li>\n            <li>• \nOr — 65 000 points : pour les habitués plus actifs.\n\n<\/li>\n            <li>• \nNoir — 250 000 points : statut VIP avec privilèges étendus.\n\n<\/li>\n\t    <li>• \nUltime — 850 000 points : niveau maximal du programme.\n\n<\/li>\n\t    <li>• \nLe statut peut être réévalué selon le cycle et l’activité.\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAvantages et bonus (ce que l’on obtient) :\n<\/h4>\n\n <ul>\n            <li>• \nAccès facilité et expérience d’entrée plus fluide (selon règles).\n\n<\/li>\n            <li>• \nCumul de points sur machines, tables et espaces bar\/restaurant.\n\n<\/li>\n            <li>• \nConversion des points en récompenses :\nJetons\/tickets de jeu selon le solde disponible;\nPaiement partiel au bar\/restaurant via points (équivalent valeur);\nAvantages orientés expérience et séjour dans l’univers Barrière.\n\n<\/li>\n            <li>• \nOffres personnalisées sur l’année (selon statut et habitudes).\n\n<\/li>\n\t    <li>• \nOption premium statuts élevés :\nPour Noir \/ Ultime, possibilité d’une carte conjoint avec compte commun.\n\n\n\n\n<\/li>\n\t    <li>• \nExemples de valeur (variables selon catalogue\/offres) :\nenviron 3 100 pts ≈ 5 € en bon\/réduction ;\nenviron 6 100 pts ≈ 10 € en avantage\/cadeau.\n\n<\/li>\n\t    <li>• \nSuivi du statut et des avantages via espace personnel \/ application.\n\n<\/li>\n\n        <\/ul><br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": " Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au Casino Barrière Deauville",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres spéciales au Casino Barrière Deauville : jackpots, événements et saisons\n<\/h3>\n\n<p>\nAu Casino Barrière Deauville, les « bonus » prennent surtout la forme d’offres réelles sur place : jackpots sur machines, événements de jeu, spectacles, formules dîner+show et temps forts saisonniers. Les visiteurs recherchent d’abord la possibilité d’un gros gain sur certains slots, puis une soirée complète portée par une programmation artistique. Les actions promotionnelles se structurent donc autour de deux piliers : l’intensité du jeu (jackpots, poker) et le calendrier événementiel (concerts, humour, magie, danse).\n\n<\/p>\n<br>\n\n<p>\nDu côté des gains, les jackpots progressifs sont la mécanique la plus visible, car ils créent un enjeu supplémentaire et une attente particulière. Les événements poker ajoutent une dimension compétition, avec des tournois et séries qui attirent les joueurs en quête de rythme et de structure. Certains soirs mettent aussi l’accent sur un univers de jeu ou une ambiance thématique.\n\n<\/p>\n<br>\n<p>\nL’autre famille d’offres concerne le divertissement. Les spectacles deviennent un « déclencheur » de visite, puis le public prolonge au bar et au casino. Les formules dîner+show sont particulièrement appréciées, car elles simplifient l’organisation et transforment la sortie en scénario fluide. Les périodes festives renforcent cette logique, avec décorations, soirées spéciales et programmation renforcée.\n\n<\/p>\n<br>\n<p>\nOn trouve aussi des « cadeaux » plutôt que des bonus classiques : coffrets, idées cadeaux, et avantages liés à la restauration ou aux séjours. Pour beaucoup, c’est une valeur plus concrète, car elle se ressent immédiatement dans la qualité de la soirée. Les conditions varient selon les dates, d’où l’importance d’indiquer une logique d’exemples.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJackpots progressifs sur machines (gains) :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLe jackpot peut dépasser 1 000 000 €+ sur certaines machines.\n\n<\/li>\n            <li>• \nLe principe : une partie des mises alimente un pot commun, déclenché selon les règles de la machine.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBilletterie spectacles (le divertissement comme « bonus ») :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDes billets peuvent commencer à partir de 39 € selon la programmation.\n\n<\/li>\n            <li>• \nCertaines soirées (magie\/concert) se situent souvent dès 49 € et plus selon date\/catégorie.\n\n<\/li>\n            <li>• \nL’intérêt : un vrai combo « spectacle + casino » sans déplacement.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFormules « dîner + show » (soirée prête à vivre) :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLa formule peut démarrer dès 39 € (repère de prix minimal d’affiche) puis évoluer selon menu et placement.\n\n<\/li>\n            <li>• \nIdéal pour une sortie complète : dîner, spectacle, jeu.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSéries poker et tournois (offres liées au jeu) :\n\n<\/h4>\n\n <ul>\n            <li>• \nLes buy-ins et dotations dépendent du calendrier ; une fourchette typique peut être 50–500 € (indicatif, à confirmer selon tournoi).\n\n<\/li>\n            <li>• \nLa valeur réside dans la structure, l’ambiance et l’expérience compétitive.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSoirées thématiques et temps forts saisonniers :\n\n<\/h4>\n\n <ul>\n            <li>• \nPendant les fêtes, des soirées spéciales et menus dédiés apparaissent souvent.\n\n<\/li>\n            <li>• \nOn gagne ici surtout en expérience : la sortie devient un événement.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCadeaux et coffrets (plutôt que bonus) :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLes coffrets\/chèques-cadeaux fixent un budget et laissent le choix : jeu, bar, show ou dîner.\n\n<\/li>\n            <li>• \nUne option idéale pour offrir une expérience.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino Barrière Deauville : machines, roulette, blackjack et poker\n<\/h3>\n\n<p>\nLe Casino Barrière Deauville séduit par un choix large de jeux classiques et une organisation claire des espaces : machines, tables et poker sont faciles à repérer. Pour les débutants, les machines et jeux électroniques sont les plus accessibles, car les règles sont affichées et l’on joue à son rythme. Ceux qui recherchent une ambiance plus vivante privilégient les tables, où l’énergie vient du croupier, des mises et du déroulé du jeu. La roulette reste une valeur sûre grâce à sa simplicité : on choisit une mise, puis on laisse parler la dynamique.\n\n<\/p>\n<br>\n\n<p>\nLe blackjack attire les joueurs qui aiment décider, car les choix influencent réellement la partie. C’est un jeu où la discipline et la stratégie comptent, ce qui plaît aux habitués. Les versions électroniques de la roulette et du blackjack offrent un compromis : intensité sans attente, tempo rapide, interface claire. Le soir, cette variété permet d’alterner les formats et de construire une soirée sur mesure.\n\n<\/p>\n<br>\n<p>\nLa poker room apporte une dimension plus tactique : psychologie, lecture, gestion du risque. Un tournoi peut devenir un vrai moment fort, grâce à la structure et à l’esprit compétition. En cash game, l’approche est plus flexible : on entre avec un budget et on adapte sa durée de jeu. Pour certains visiteurs, le poker devient le cœur de la soirée.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nMachines à sous (slots) : classiques et vidéo, souvent avec bonus rounds et jackpots progressifs ; idéales pour des sessions rapides.\n<\/li>\n            <li>• \nRoulette : choix de mises simple, sensation forte, rythme naturel ; versions classiques et électroniques possibles.\n\n<\/li>\n            <li>• \nRoulette électronique : tempo rapide, sans attente, parfaite pour jouer souvent et facilement.\n\n<\/li>\n            <li>• \nBlackjack : jeu de décisions, stratégie et gestion de bankroll ; apprécié pour le contrôle.\n\n<\/li>\n\t    <li>• \nBlackjack électronique : rapide, intuitif, idéal pour des créneaux courts.\n\n<\/li>\n\t    <li>• \nUltimate Poker : poker contre le croupier, dynamique, bon équilibre entre vitesse et sensation poker.\n\n<\/li>\n\t    <li>• \nPoker Texas Hold’em (Poker Room) : tactique, lecture des adversaires, formats cash game et tournois.\n\n<\/li>\n\t    <li>• \nRoue de la Chance : format simple et visuel, parfait pour une première expérience.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino Barrière Deauville : minimums et maximums par jeu\n<\/h3>\n\n<p> \nLe tableau ci-dessous donne des repères de mises min\/max pour mieux préparer votre budget au Casino Barrière Deauville. Les limites peuvent varier selon la machine, la table, le jour et la programmation. Cette synthèse sert à se situer : démarrer petit sur certains formats, ou viser des mises plus élevées aux tables. Pour les limites exactes, référez-vous à l’affichage en salle et aux équipes sur place.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#C7A238; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise min<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise max<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01 €  <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">20 € <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette(table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 € <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack(table) <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50 €  <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 100 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 €  <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 €<\/td>\n                <\/tr>\n           <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 €  <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n           <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker cash game (buy-in)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 000 €<\/td>\n                <\/tr>\n           <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Tournoi poker (buy-in)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €  <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n           <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roue de la Chance<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €   <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpectacles et loisirs au Casino Barrière Deauville : théâtre, concerts et vie nocturne\n<\/h3>\n\n<p>\nLe Casino Barrière Deauville est bien plus qu’un lieu de jeu : c’est une véritable scène de soirée. Son point fort est la programmation régulière : concerts, humour, théâtre, magie et danse. Ce positionnement attire aussi un public non joueur, qui vient d’abord pour le spectacle puis prolonge sur place. L’ensemble crée une expérience complète, rare dans un seul établissement.\n\n<\/p>\n<br>\n\n<p>\nLes animations s’organisent souvent autour du calendrier de la salle : on peut jouer avant le show, profiter d’un verre, puis assister à la représentation, ou faire l’inverse. Ce schéma plaît parce qu’il donne une structure à la soirée, avec un tempo naturel. Des soirées thématiques et temps forts saisonniers renforcent cette dimension événementielle. On ne vient pas seulement « tenter sa chance », on vient vivre une sortie.\n\n<\/p>\n<br>\n<p>\nLa dimension nocturne s’exprime par l’esprit lounge : après le spectacle, beaucoup se retrouvent au bar puis dans les salles de jeu. Les week-ends et périodes fortes offrent une atmosphère plus animée, plus sociale, avec un vrai sentiment de nuit de station. En parallèle, des espaces plus calmes existent pour ceux qui préfèrent un rythme feutré. Le lieu sait donc s’adapter aux styles de sortie.\n\n<\/p>\n<br>\n<p>\nLe format dîner-spectacle est un atout marketing évident : dîner et show réunis, planning simple, expérience « prête à vivre ». C’est très apprécié des couples et groupes qui veulent une soirée fluide sans déplacements. Ensuite, chacun choisit de prolonger au jeu ou de terminer par un dernier verre. C’est une logique de soirée premium, facile à recommander.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nThéâtre \/ scène : concerts, humour, pièces, magie, danse — cœur de la programmation.\n<\/li>\n            <li>• \nDîner-spectacle : formule dîner + show, idéale pour une soirée événement.\n\n<\/li>\n            <li>• \nÉvénements poker : tournois et séries en Poker Room, ambiance compétition.\n\n<\/li>\n            <li>• \nSoirées thématiques : fêtes saisonnières, dates spéciales, ambiance renforcée.\n\n<\/li>\n\t    <li>• \nSoirées lounge au bar : cocktails, musique, atmosphère sociale.\n\n<\/li>\n\t    <li>• \nRythme nocturne des salles : pic d’activité le soir sur tables et machines.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRestaurants, bars et hôtels autour du Casino Barrière Deauville : l’art de la soirée\n<\/h3>\n\n<p>\nLe Casino Barrière Deauville se prête parfaitement à une soirée « tout-en-un » : jeu, pause bar et dîner se combinent sur place ou à quelques pas. C’est un avantage clé lorsque l’on veut profiter sans se soucier de déplacements. On peut démarrer par un apéritif, jouer, dîner, puis assister à un spectacle, le tout avec un tempo naturel. Cette continuité rend l’expérience plus confortable et plus premium.\n\n<\/p>\n<br>\n\n<p>\nLes options de restauration répondent à des besoins différents : pause rapide ou dîner plus habillé, selon le style de la soirée. Une bonne stratégie consiste à dîner avant le spectacle ou juste après, pour éviter les pics. Les bars jouent un rôle de transition, permettant de passer du jeu à la conversation dans une ambiance détendue. Pour les groupes, le bar devient souvent le point de ralliement entre différentes activités.\n\n<\/p>\n<br>\n<p>\nLa dimension hôtelière renforce l’attrait : les hôtels Barrière à proximité permettent de transformer une sortie en escapade complète. C’est idéal si l’on vient pour un concert ou une pièce et que l’on souhaite prolonger sans contrainte. Ajouter spa, promenade et nuit sur place donne une expérience plus riche et cohérente. Beaucoup de visiteurs apprécient cette logique « soirée + séjour ».\n\n<\/p>\n<br>\n<p>\nÀ noter : certains espaces situés en zone de jeu peuvent appliquer les mêmes conditions d’accès que le casino, notamment l’âge et la pièce d’identité. Il est donc conseillé de garder ses documents sur soi. Ensuite, tout se joue sur le choix du rythme et du budget : le lieu offre les outils pour composer votre soirée.\n<\/p>\n<br>\n\n\n\n\n <ul>\n            <li>• \nLe Cercle (restaurant) : dîner dans l’ambiance des jeux de table, très « soirée ».\n\n<\/li>\n            <li>• \nPlaza Café (bar\/café) : pause pratique au cœur de l’action, boissons et cuisine légère.\n\n<\/li>\n            <li>• \nL’O2 Sofa Bar (lounge) : cocktails, assises confortables, atmosphère feutrée.\n\n<\/li>\n            <li>• \nHôtel Barrière Le Normandy (proche) : séjour premium, parfait pour « casino + nuit ».\n\n<\/li>\n\t    <li>• \nHôtel Barrière Le Royal (proche) : option très resort et haut de gamme.\n\n<\/li>\n\t    <li>• \nHôtel Barrière L’Hôtel du Golf : pour combiner détente, nature et sortie casino.\n<\/li>\n\n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Peut-on venir uniquement pour un spectacle sans jouer ?",
+                    "answer": "Oui, beaucoup de visiteurs viennent d’abord pour les concerts, le théâtre ou les shows. La partie divertissement peut être vécue de façon indépendante.\n\n\n"
+                },
+                {
+                    "title": "Y a-t-il une limite de temps de présence ?",
+                    "answer": "Il n’y a généralement pas de limite stricte tant que l’on respecte les règles et les horaires. En cas de non-respect, l’accès peut être restreint.\n\n\n"
+                },
+                {
+                    "title": "Que faire en cas de perte de la carte Le Carré VIP ?",
+                    "answer": "Il faut contacter l’accueil avec une pièce d’identité. La carte peut être désactivée et l’accès rétabli, car les points\/statuts sont liés au profil.\n\n\n"
+                },
+                {
+                    "title": "Comment fonctionne le jeu responsable et l’auto-limitation ?",
+                    "answer": "Il est possible de demander des dispositifs de limitation d’accès et d’accompagnement. C’est un outil utile pour jouer de manière encadrée.\n\n\n"
+                },
+                {
+                    "title": "Est-ce adapté pour une première expérience casino ?",
+                    "answer": "Oui, l’approche est progressive : machines et jeux électroniques pour débuter, puis tables si l’on souhaite. La programmation spectacle rend la soirée plus simple et plus rassurante."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1187",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Barrière Deauville"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
